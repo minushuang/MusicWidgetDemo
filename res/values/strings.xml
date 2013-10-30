@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMusic</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="selectmusic">Tuch to select music.</string>
+    <string name="songname">Please tap here to</string>
+    <string name="artist">to add music</string>
+
+</resources>
